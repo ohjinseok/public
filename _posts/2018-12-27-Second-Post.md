@@ -1,5 +1,5 @@
 ---
-title: [1주차 Reflection]Design Thingking 방법론
+title: 1주차 Reflection Design Thingking 방법론
 ---
 
 # Design Thingking 방법론
