@@ -6,7 +6,7 @@
 
 ## 손지명(Firebat)
 
-![손지명](./img/1.jpg)
+![손지명](./img/6.jpg)
 
 * 성격 - 온순함
 
@@ -16,7 +16,7 @@
 
 ## 염희돈(도니)
 
-![염희돈](C:\Users\student\Desktop\KakaoTalk_20181227_144255356.jpg)
+![염희돈](./img/2.jpg)
 
 * 성격 - 우직하고 조용함
 
@@ -26,7 +26,7 @@
 
 ## 장호익(이코)
 
-![장호익](C:\Users\student\Desktop\KakaoTalk_20181227_145148614.jpg)
+![장호익](./img/3.jpg)
 
 * 성격 - 낯을 가리지만 밝다.
 
@@ -36,7 +36,7 @@
 
 ## 오진석(오징어)
 
-![오진석](C:\Users\student\Desktop\KakaoTalk_20181227_145849001.jpg)
+![오진석](./img/5.jpg)
 
 * 성격 - 낯을 가리고 조용함
 
@@ -46,7 +46,7 @@
 
 ## 김나영(나쿠라)
 
-![김나영](C:\Users\student\Desktop\KakaoTalk_20181227_145731331.jpg)
+![김나영](./img/4.jpg)
 
 * 성격 - 붙임성이 좋고 활발하다.
 
@@ -56,7 +56,7 @@
 
 ## 최현호(파트라슈)
 
-![최현호](C:\Users\student\Desktop\KakaoTalk_20181227_142251895.jpg)
+![최현호](./img/1.jpg)
 
 * 성격 - 말 많고 고집이 세고 착함
 
