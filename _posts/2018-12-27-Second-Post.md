@@ -79,8 +79,12 @@ title: \[1주차 Reflection\] Design Thingking 방법론
 
 - 아이디어 도출 단계를 통해 정해진 아이디어를 구현하여
   직접 보여주기 위해 목업(Mockup)을 제작하는 단계
-- 활용 Tool : Balsamiq
-https://balsamiq.cloud/sjidzbm/ph80xi4/r2278
+  
+#### 활용 Tool : Balsamiq
+- URL : https://balsamiq.cloud/sjidzbm/ph80xi4/r2278
+- 목업을 제작할 수 있는 여러 Tool 중 한 종류.
+- 직관적인 인터페이스와 편집하기 쉬운 구조로 이루어져 있다.
+- 손으로 그린 것 같은 디자인 베이스가 어느 정도 형성되어 있어 작업이 상당히 편리하다.
 ---
 ## 5. 테스트
 
