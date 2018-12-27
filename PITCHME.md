@@ -6,7 +6,7 @@
 
 ## 손지명(Firebat)
 
-![손지명](C:\Users\student\Desktop\KakaoTalk_20181227_145856429.jpg)
+![손지명](./img/1.jpg)
 
 * 성격 - 온순함
 
