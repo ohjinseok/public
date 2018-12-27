@@ -1,5 +1,5 @@
 ---
-title: \[2주차 Reflection\] SSAFY Start Camp 챗봇 퀘스트
+title: \[2주차 Reflection\]오진석 SSAFY Start Camp 챗봇 퀘스트
 ---
 
 ### 서울_1_오진석, https://github.com/ohjinseok
